@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Название приложения -->
+    <string name="app_name">Мценскпрокат</string>
+
+    <!-- Навигация -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_catalog">Каталог</string>
+    <string name="nav_order">Заказать</string>
+    <string name="nav_contacts">Контакты</string>
+
+    <!-- Главная страница -->
+    <string name="home_title">Завод прецизионных сплавов Мценскпрокат</string>
+    <string name="home_description">Производитель прецизионных, медных и никелевых сплавов</string>
+    <string name="home_advantages">Наши преимущества</string>
+    <string name="home_categories">Основные категории</string>
+    <string name="home_view_catalog">Посмотреть каталог продукции</string>
+    <string name="home_make_order">Оформить заказ</string>
+
+    <!-- Каталог -->
+    <string name="catalog_title">Каталог продукции</string>
+    <string name="catalog_search_hint">Поиск по сплавам…</string>
+    <string name="catalog_filter_all">Все</string>
+    <string name="catalog_no_products">Продукция не найдена</string>
+    <string name="catalog_alloys_count">%d сплавов</string>
+
+    <!-- Детали продукта -->
+    <string name="product_characteristics">Характеристики</string>
+    <string name="product_alloys">Марки сплавов (%d)</string>
+    <string name="product_order_info">Информация для заказа</string>
+    <string name="product_order_description">Для оформления заказа нажмите кнопку \"Заказать\" ниже или свяжитесь с нами по телефону или электронной почте.</string>
+    <string name="product_back">Назад</string>
+    <string name="product_order_button">Заказать</string>
+
+    <!-- Контакты -->
+    <string name="contacts_title">Контакты</string>
+    <string name="contacts_phone_title">Телефон</string>
+    <string name="contacts_phone_description">Позвоните нам</string>
+    <string name="contacts_email_title">Электронная почта</string>
+    <string name="contacts_email_description">Напишите нам</string>
+    <string name="contacts_address_title">Адрес</string>
+    <string name="contacts_address_description">Наше местоположение</string>
+    <string name="contacts_website_title">Веб-сайт</string>
+    <string name="contacts_website_description">Посетите наш сайт</string>
+    <string name="contacts_working_hours">Время работы</string>
+    <string name="contacts_weekdays">Понедельник - Пятница</string>
+    <string name="contacts_weekdays_hours">9:00 - 18:00</string>
+    <string name="contacts_weekend">Суббота - Воскресенье</string>
+    <string name="contacts_weekend_hours">Выходной</string>
+    <string name="contacts_how_to_contact">Как с нами связаться</string>
+    <string name="contacts_contact_description">Для получения консультации, оформления заказа или по любым другим вопросам свяжитесь с нами по телефону или электронной почте. Мы готовы обсудить условия взаимовыгодного сотрудничества.</string>
+
+    <!-- Форма заказа -->
+    <string name="order_title">Оформление заказа</string>
+    <string name="order_subtitle">Заполните форму, и мы свяжемся с вами</string>
+    <string name="order_contact_data">Контактные данные</string>
+    <string name="order_info">Информация о заказе</string>
+    <string name="order_name">Ваше имя *</string>
+    <string name="order_phone">Телефон *</string>
+    <string name="order_phone_hint">+7 (XXX) XXX-XX-XX</string>
+    <string name="order_email">Email *</string>
+    <string name="order_email_hint">example@mail.com</string>
+    <string name="order_product_name">Наименование продукции *</string>
+    <string name="order_product_hint">Например: Х20Н80</string>
+    <string name="order_quantity">Количество *</string>
+    <string name="order_quantity_hint">Например: 100 кг</string>
+    <string name="order_comment">Комментарий (необязательно)</string>
+    <string name="order_comment_hint">Дополнительная информация к заказу</string>
+    <string name="order_submit">Отправить заявку</string>
+    <string name="order_submitting">Отправка…</string>
+    <string name="order_info_text">После отправки заявки наш менеджер свяжется с вами для уточнения деталей и расчета стоимости заказа.</string>
+
+    <!-- Диалоги -->
+    <string name="dialog_order_success_title">Заявка отправлена!</string>
+    <string name="dialog_order_success_message">Спасибо за вашу заявку! Наш менеджер свяжется с вами в ближайшее время для уточнения деталей заказа.</string>
+    <string name="dialog_order_error_title">Ошибка</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_great">Отлично</string>
+
+    <!-- Преимущества -->
+    <string name="advantage_direct_delivery">Прямые поставки</string>
+    <string name="advantage_direct_delivery_desc">От производителя без посредников</string>
+    <string name="advantage_wide_range">Широкий ассортимент</string>
+    <string name="advantage_wide_range_desc">Более 100 видов сплавов и сталей</string>
+    <string name="advantage_wholesale">Оптовые цены</string>
+    <string name="advantage_wholesale_desc">Выгодные условия для оптовых покупателей</string>
+    <string name="advantage_quality">Высокое качество</string>
+    <string name="advantage_quality_desc">Соответствие ГОСТ и международным стандартам</string>
+
+    <!-- Категории продукции -->
+    <string name="category_precision">Прецизионные сплавы</string>
+    <string name="category_precision_desc">С высоким электрическим сопротивлением</string>
+    <string name="category_magnetic">Магнитно-мягкие сплавы</string>
+    <string name="category_magnetic_desc">Высокая магнитная проницаемость</string>
+    <string name="category_nichrome">Проволока нихром</string>
+    <string name="category_nichrome_desc">Диаметры от 0,1 мм до 10,0 мм</string>
+    <string name="category_steel">Специальные стали</string>
+    <string name="category_steel_desc">Коррозионностойкие и жаростойкие</string>
+
+    <!-- Общие -->
+    <string name="loading">Загрузка…</string>
+    <string name="error">Ошибка</string>
+    <string name="retry">Повторить</string>
+    <string name="back">Назад</string>
+    <string name="more_details">Подробнее</string>
+    <string name="required_field">* Обязательное поле</string>
+
+    <!-- Контактная информация -->
+    <string name="contact_phone">+7 (495) 291-09-14</string>
+    <string name="contact_email">sale@mzenskprokat.ru</string>
+    <string name="contact_website">https://mzenskprokat.ru</string>
+    <string name="contact_address">Металлургический завод Мценскпрокат</string>
+</resources>
